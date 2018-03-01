@@ -5,6 +5,6 @@
 
 ## 使用方法
 
-1.安装启动 sleepwatcher
-2.新建 ~/.wakeup 文件
-3.编辑脚本
+1. 安装启动 sleepwatcher
+2. 新建 ~/.wakeup 文件
+3. 编辑脚本
