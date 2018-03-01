@@ -10,3 +10,5 @@ Archive code gist of interest.
 [logger](./Python/logger) 封装一个好用的日志库
 
 [block-chain](./Go/block-chain) 简单的区块链实现
+
+[wakeup](./Shell/wakeup) 开机唤醒时自动执行脚本
