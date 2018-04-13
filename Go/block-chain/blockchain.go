@@ -10,7 +10,7 @@ import (
 )
 
 const (
-    DIG_DIFFICULTY int = 3
+    DIG_DIFFICULTY int = 2
 )
 
 type Block struct {
