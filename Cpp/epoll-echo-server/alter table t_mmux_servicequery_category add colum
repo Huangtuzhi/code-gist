@@ -1,6 +1,0 @@
-alter table t_mmux_servicequery_category add column query_example varchar(1280) DEFAULT '' COMMENT 'query 示例';
-
-
-select A.*, B.query_example as query_example from t_mmux_servicequery_interface as A
-left join t_mmux_servicequery_category as B
-on A.category_id=B.id;
