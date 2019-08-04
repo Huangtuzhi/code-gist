@@ -19,4 +19,4 @@ Archive code gist of interest.
 
 [locust-pressure-test](./Python/locust-pressure-test) 使用 locust 进行压力测试
 
-[blocking-queue]() 带边界的阻塞队列
+[blocking-queue]() 带超时时间和边界的阻塞队列
