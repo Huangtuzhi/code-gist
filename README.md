@@ -18,3 +18,5 @@ Archive code gist of interest.
 [aes-encoder](./Java/aes-encoder) AES CBC 加解密
 
 [locust-pressure-test](./Python/locust-pressure-test) 使用 locust 进行压力测试
+
+[blocking-queue]()带边界的阻塞队列
