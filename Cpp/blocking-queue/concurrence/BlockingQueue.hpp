@@ -42,6 +42,7 @@ class BlockingQueue: NonCopyable {
       if (UnlockedIsFull()) {
         cout << "\n queue is full, queue_size=" << queue_.size() 
              << "|time=" << time(NULL) << endl;
+        // !!! 进入 Wait mutex_ 已经锁住
         notFullCondition_.Wait(timeOutMs);
       }
 
